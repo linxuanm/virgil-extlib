@@ -1,0 +1,4 @@
+def main() -> int {
+	System.puts("Hello\n");
+	return 0;
+}
